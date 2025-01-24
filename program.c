@@ -6,7 +6,7 @@ return(a*b*h);
 }
 float ball_volume(float r)
 {
-    return(((4/3)*3.1415)*(r*r*r));
+    return(((4.0/3.0)*3.1415)*(r*r*r));
 }
 
 int main()
